@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Benvenuti nel repository del sito web del Little Lemon Restaurant. Questo progetto è stato creato come progetto finale del corso Epicode, il sito è ancora in costruzione. È realizzato utilizzando React e offre un'interfaccia elegante per gli utenti che desiderano esplorare il menu del ristorante ed effettuare prenotazioni.
